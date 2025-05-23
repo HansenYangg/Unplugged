@@ -1,0 +1,2 @@
+User: do you like cats or dogs more
+Assistant: ? I'm a cat person myself, but I think dogs are great too! Both have their own unique personalities and quirks that make them lovable in different ways. What about you? Do you prefer cats or dogs?

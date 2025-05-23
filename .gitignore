@@ -1,0 +1,9 @@
+
+models/
+*.zip
+*.pkg
+/build
+/dist_llama-1b/
+dist_llama-3b/
+venv/
+__pycache__/
