@@ -18,16 +18,13 @@ Fear not.
    ```
 
 3. Install dependencies (strongly recommended Python 3.11, may not work with other versions)  
-
-4. Upgrade pip and install required packages:  
    ```bash
    python -m pip install --upgrade pip
    pip install -r requirements.txt
    pip install pydantic uvicorn fastapi pyinstaller
    ```
 
-5. Run `1b_package.py` and/or `3b_package.py` to install 1b or 3b model (3b is better but larger); once you complete this step  
-   you won't need internet for the rest of the steps to run nor in the future  
+5. Run `1b_package.py` and/or `3b_package.py` to install 1b or 3b model (3b is better but larger); once you complete this step you won't need internet for the rest of the steps to run nor in the future  
    ```bash
    python 1b_package.py
    python 3b_package.py
