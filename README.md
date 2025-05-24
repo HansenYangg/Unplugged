@@ -17,7 +17,7 @@ Fear not.
    cd Unplugged
    ```
 
-3. Install dependencies (strongly recommended Python 3.11, may not work with other versions)  
+3. Install dependencies (strongly recommended Python 3.11, may not work with other versions; might need to improvise a little bit here if something isn't working)  
    ```bash
    python -m pip install --upgrade pip
    pip install -r requirements.txt
