@@ -14,7 +14,7 @@ app = FastAPI(title="Offline LLM Backend") # handle cross origin requests
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # replace with frontend URL (?)
+    allow_origins=["*"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
