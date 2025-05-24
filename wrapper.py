@@ -4,8 +4,8 @@ import sys
 import json
 
 
-DEFAULT_CONFIG = {
-    "model_name": "llama-3b",
+DEFAULT_CONFIG = {as
+    "model_name": "llama-3b", # EDIT THIS TO "llama-1b" for smaller and faster (but worse) model
     "max_tokens": 100,
     "temperature": 0.0,
     "url": "http://localhost:8000/generate-stream"  # streaming endpoint
